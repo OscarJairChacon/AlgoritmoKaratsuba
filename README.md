@@ -8,7 +8,7 @@ Requisitos de maquina
 1. Los requisitos de maquina se pueden encontrar en el siguiente enlace:
    http://www.oracle.com/technetwork/java/javase/config-417990.html
 
-Instalacion del Proyecto AlgoritmoKaratsuba
+Instalacion del proyecto AlgoritmoKaratsuba
 -----------------------------------
 1. Instalar la maquina virtual de Java segun su sistema operativo http://java.com/es/download/manual.jsp#lin
 2. Descargar el archivo "AlgoritmoKaratsuba.jar" al pc desde github
